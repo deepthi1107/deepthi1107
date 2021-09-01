@@ -13,7 +13,7 @@
  
 ✨ Campus Ambassador of Reach Technology | National Social Summit IIT Roorkee.
 
-✨ I’m currently learning Deep learning.
+✨ I’m currently learning Deep learning and AI.
 
 
 ## 🛠 Skills
