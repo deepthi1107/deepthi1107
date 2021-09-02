@@ -5,7 +5,7 @@
 ## 🚀 About Me
 ✨ I am a enthusiastic Data Science learner.
 
-✨ I’m currently working on Data Science Project.nkcdsnjjsdnjv
+✨ I’m currently working on Data Science Project.
 
 ✨ Campus Hero of Girl Script Jalandhar.
 
