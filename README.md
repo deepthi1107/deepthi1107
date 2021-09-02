@@ -3,7 +3,7 @@
 
   
 ## 🚀 About Me
-✨ I am a enthusiastic Data Science learner.fnkjksdkfk
+✨ I am a enthusiastic Data Science learner.
 
 ✨ I’m currently working on Data Science Project.
 
