@@ -9,7 +9,7 @@
 
 ✨ Campus Hero of Girl Script Jalandhar.
 
-✨ Data Science intern at The Sparks Foundation, Tarezameen Foundation.
+✨ Data Science intern at Innodatatics, The Sparks Foundation, Tarezameen Foundation.
  
 ✨ Campus Ambassador of Reach Technology | National Social Summit IIT Roorkee.
 
