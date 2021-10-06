@@ -23,3 +23,17 @@ Data Science | Data Mining | Tableau | Natural Language Processing | Data Visual
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepthi-m-1107/)
+
+
+<br/>
+<br/>
+<a href="https://github.com/deepthi1107">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepthi1107&show_icons=true&hide_border=false&title_color=ffffff&amp&icon_color=bb2acf&amp&text_color=daf7dc&amp&bg_color=191919"/>
+</a>
+<a href="https://github.com/deepthi1107">
+  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepthi1107&theme=dark&hide_langs_below=0" />
+</a>
+
+<p align="center">
+
+</p>
