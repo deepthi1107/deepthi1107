@@ -1,5 +1,5 @@
 
-# Hi, I'm Deepthi !!!! 👋
+# Hi, I'm Deepthi !!! 👋
 
   
 ## 🚀 About Me
