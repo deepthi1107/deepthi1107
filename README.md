@@ -2,7 +2,7 @@
 # Hi, I'm Deepthi !!! 👋
 
   
-## 🚀 About Me
+## 🚀 About Mebbb
 ✨ I am a enthusiastic Data Science learner.
 
 ✨ I’m currently working on Data Science Project.
