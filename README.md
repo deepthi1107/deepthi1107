@@ -13,11 +13,11 @@
  
 ✨ Campus Ambassador of Reach Technology | National Social Summit IIT Roorkee.
 
-✨ I’m currently learning Deep learning and AI.
+✨ Open-source Contributor of Script Winter of Code | Open-source Contributor of GirlScript Winter of Contributing.
 
 
 ## 🛠 Skills
-Data Science | Data Mining | Tableau | Natural Language Processing | Data Visualization | Python | R Programming
+Data Science | Data Mining | Tableau | Natural Language Processing | Data Visualization | Python | R Programming | Deep Learning | AI | Linux
 
   
 ## 🔗 Links
