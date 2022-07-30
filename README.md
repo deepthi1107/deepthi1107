@@ -1,11 +1,11 @@
 
-# Hi, I'm Deepthi !! 👋
+# Hey, I'm Deepthi !! 👋
 
   
 ## 🚀 About Me
-✨ I am a enthusiastic Data Science learner.
+✨ I am a enthusiastic Data Science learner and Machine Learning enthusiastic.
 
-✨ I’m currently working on Data Science Project.
+✨ Currently working on Deep Learning and AI. 
 
 ✨ Campus Hero of Girl Script Jalandhar.
 
@@ -13,7 +13,7 @@
  
 ✨ Campus Ambassador of Reach Technology | National Social Summit IIT Roorkee.
 
-✨ Open-source Contributor of Script Winter of Code | Open-source Contributor of GirlScript Winter of Contributing.
+✨ Open-source Contributor of Script Winter of Code'21 | Open-source Contributor of GirlScript Winter of Contributing'21.
 
 
 ## 🛠 Skills
