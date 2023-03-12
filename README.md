@@ -7,7 +7,7 @@
 
 ✨ Currently working on Deep Learning and AI. 
 
-✨ Campus Hero of Girl Script Jalandhar.
+✨ Campus Hero of Girl Script Jalandhar .
 
 ✨ Data Science intern at Innodatatics, The Sparks Foundation, Tarezameen Foundation.
  
